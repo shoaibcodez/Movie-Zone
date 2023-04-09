@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Movie-Zone/static/css/main.0792f45a.css",
+    "main.css": "/Movie-Zone/static/css/main.6acceb4a.css",
     "main.js": "/Movie-Zone/static/js/main.6a80fc2e.js",
     "index.html": "/Movie-Zone/index.html",
-    "main.0792f45a.css.map": "/Movie-Zone/static/css/main.0792f45a.css.map",
+    "main.6acceb4a.css.map": "/Movie-Zone/static/css/main.6acceb4a.css.map",
     "main.6a80fc2e.js.map": "/Movie-Zone/static/js/main.6a80fc2e.js.map"
   },
   "entrypoints": [
-    "static/css/main.0792f45a.css",
+    "static/css/main.6acceb4a.css",
     "static/js/main.6a80fc2e.js"
   ]
 }
