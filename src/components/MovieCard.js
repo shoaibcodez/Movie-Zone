@@ -9,3 +9,4 @@ export const MovieCard = (props) => {
         </div>
     );
 }
+ // "homepage": "https://shoaibcodez.github.io/Movie-Zone",
