@@ -11,7 +11,6 @@ body {
 
 .container {
   background-color: #0F1014;
-
   padding: 20px;
   display: grid;
   gap: 15px;
@@ -22,6 +21,31 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
+}
+
+.header-content h1 {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.header-content input {
+  padding: 8px;
+  border-radius: 20px;
+  font-size: 15px;
+  outline: 0;
+  border: 0;
+  background-color: #343541;
+  color: white;
+}
+
+.header-content button {
+  padding: 10px;
+  border-radius: 20px;
+  outline: 0;
+  border: 0;
+  margin: 0 10px 0 10px;
+  color: white;
+  background-color: #343541;
 }
 
 .movie-cover {
